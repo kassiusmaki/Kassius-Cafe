@@ -28,10 +28,10 @@
 
 div {
   background-color: red;
-  width: 300px;
-  border: 15px solid dark green;
-  padding: 50px;
-  margin: 20px;
+  width: 250px;
+  border: 10px solid dark green;
+  padding: 45px;
+  margin: 15px;
 }
 
 </html>
