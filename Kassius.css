@@ -26,10 +26,9 @@
   color: white;
 }
 
-ul {
-  background-color: red;
-  width: 250px;
-  border: 10px solid dark green;
+div {
+  width: 300px;
+  border: 15px solid green;
   padding: 50px;
   margin: 20px;
 }
