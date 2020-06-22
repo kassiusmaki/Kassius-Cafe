@@ -32,12 +32,10 @@ ul {
   padding: 50px;
   margin: 20px;
 }
-
-div {
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+p.one {
+  border-style: solid;
+  border-color: red green blue yellow; /* red top, green right, blue bottom and yellow left */
 }
+
 </html>
 
