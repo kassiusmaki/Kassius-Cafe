@@ -33,7 +33,7 @@ ul {
   margin: 20px;
 }
  
-div {
+ ul{
   border: 1px solid black;
   background-color: lightblue;
   padding-top: 50px;
