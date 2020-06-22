@@ -32,9 +32,13 @@ ul {
   padding: 50px;
   margin: 20px;
 }
-p.one {
-  border-style: solid;
-  border-color: red;
+ul {
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
 
 </html>
